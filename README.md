@@ -45,7 +45,7 @@ You need to have **Python 3.8+** installed on your system. A working webcam is a
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Virtual-Mouse.git
+git clone https://github.com/muskan170105/Virtual-Mouse.git
 cd Virtual-Mouse
 ```
 ### 2. Install required dependencies
