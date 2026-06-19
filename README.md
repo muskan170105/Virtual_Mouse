@@ -14,12 +14,11 @@ The system tracks specific hand landmarks to perform various OS-level actions wi
 * **Double Click:** Two quick pinches (**Index + Thumb**).
 * **Drag & Drop:** Pinch **Index + Thumb** and hold for 0.70s to lock, then move to drag.
 * **Right Click:** Point your **Thumb far sideways** (while keeping index down).
-* **Middle Click:** Raise **Three fingers** straight up.
-* **Scroll (Up/Down/Left/Right):** Raise **Index + Middle fingers** with a small gap and move your hand.
+* **Scroll (Up/Down):** Curl all you fingers and thumb to scroll up/down **.
 
 ### 💻 System & Media Controls
-* **Volume Up:** Pinch **Thumb + Middle finger** (while keeping index/ring/pinky up).
-* **Volume Down:** Bring **Thumb + Middle finger** closer together.
+* **Volume Up:** raise **Index + Pinky finger** up and thumb curled inside(Rock sign).
+* **Volume Down:** **right thumb**  open sideways.
 * **Zoom In:** Spread **Index + Middle fingers** apart (Triggers `Ctrl + =`).
 * **Zoom Out:** Bring **Index + Middle fingers** closer together (Triggers `Ctrl + -`).
 * **Switch Window (Alt+Tab):** Fast horizontal sweep with an **Open Palm**.
@@ -29,7 +28,8 @@ The system tracks specific hand landmarks to perform various OS-level actions wi
 ### 🎨 Draw Mode
 * Press **`D`**: Toggle Draw mode on/off.
 * Press **`C`**: Clear the screen of drawings.
-* **Erase:** Tilt your hand **90° sideways**.
+* Use index finger to draw.
+* **Erase:** using open **Palm** gesture.
 * Press **`Q`** or **`ESC`**: Quit the application.
 
 ### 🎮 Sensitivity Profiles
